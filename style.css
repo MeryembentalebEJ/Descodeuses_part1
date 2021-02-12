@@ -1,0 +1,13 @@
+.Identity{
+    background-color:rgb(93, 132, 216);
+    border: 2px solid rgb(153, 12, 12);
+    border-radius: 5%;
+    box-shadow:10px 10px 10px rgb(30, 8, 129);
+    width: 20%;
+    padding:2%;
+}
+h1{
+    color:cornflowerblue;
+    text-decoration-line: underline;
+    text-align-last: auto;
+}
